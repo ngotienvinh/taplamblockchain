@@ -1,8 +1,15 @@
 # taplamblockchain
 This is a simple blockchain app built with Rust using Actix-web.
 
+## Installation
 
-https://tea.xyz/what-is-this-file
-version: 1.0.0 codeOwners:
+To install and run this app, make sure you have Rust and Cargo installed. Then, clone this repository:
 
-'0x9CD4F9D04c53CFd0993557AF2e84f73D569fdC44' quorum: 1
+
+Navigate to the project directory and run:
+
+
+## Usage
+
+Once the server is running, you can access the app at `http://localhost:8080` in your web browser.
+
